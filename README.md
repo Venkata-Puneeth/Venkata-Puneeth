@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available on my GitHub profile
 
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **venkatapuneethkothapalli@gmail.com**
 
 - ⚡ Fun fact: **I enjoy building projects and exploring AI technologies**
 
